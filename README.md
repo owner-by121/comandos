@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Cronos-ððŽð“+ð•1.0;MAIS+USADO+DO+BR+âœ°âœ°âœ?;100%+CONFIÃVEL+âœ°âœ°âœ?;âœ?121-THERI0N-DOMINAâœ?"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Comandos+do+Termux;F¨¢cil+r¨¢pido+e+pr¨¢tico+???;By+L¨²cifer+121+???;?121-THERI0N-DOMINA?">
 
 # [<img src='https://i.ibb.co/PWmSZ3d/IMG-20231229-WA0034.png' />](https://instagram.com/userby121)
 
@@ -20,45 +20,45 @@
 </p>
 
 ## Comandos pro Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
-**1Â° Comando**
+**1¡ã Comando**
 ```
 pkg upgrade -y
 ```
-**2Â° Comando**
+**2¡ã Comando**
 ```
 pkg update -y
 ```
-**3Â° Comando**
+**3¡ã Comando**
 ```
 pkg install python -y
 ```
-**4Â° Comando**
+**4¡ã Comando**
 ```
 pkg install nodejs-lts -y
 ```
-**5Â° Comando**
+**5¡ã Comando**
 ```
 pkg install nodejs -y
 ```
-**6Â° Comando**
+**6¡ã Comando**
 ```
 pkg install git -y
 ```
-**7Â° Comando**
+**7¡ã Comando**
 ```
 pkg install ffmpeg -y
 ```
-**8Â° Comando**
+**8¡ã Comando**
 ```
 pkg install wget -y
 ```
-**9Â° Comando**
+**9¡ã Comando**
 ```
 termux-setup-storage
 ```
-**10Â° Comando**
+**10¡ã Comando**
 ```
 cd /sdcard/
 ```
 
-**Â© Copyright by LÃºcifer 121**
+**? Copyright by L¨²cifer 121**
