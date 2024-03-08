@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Comandos+do+Termux;F¨¢cil+r¨¢pido+e+pr¨¢tico+???;By+L¨²cifer+121+???;?121-THERI0N-DOMINA?">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Comandos+do+Termux;FÃ¡cil+rÃ¡pido+e+prÃ¡tico+âœ°âœ°âœ°;By+LÃºcifer+121+âœ°âœ°âœ°;âœ°121-THERI0N-DOMINAâœ°">
 
 # [<img src='https://i.ibb.co/PWmSZ3d/IMG-20231229-WA0034.png' />](https://instagram.com/userby121)
 
@@ -16,49 +16,49 @@
 </p>
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-Carlos 121-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="VersÃ£o" src="https://img.shields.io/badge/VersÃ£o-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="VersèŒ«o" src="https://img.shields.io/badge/VersèŒ«o-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ## Comandos pro Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
-**1¡ã Comando**
+**1Â° Comando**
 ```
 pkg upgrade -y
 ```
-**2¡ã Comando**
+**2Â° Comando**
 ```
 pkg update -y
 ```
-**3¡ã Comando**
+**3Â° Comando**
 ```
 pkg install python -y
 ```
-**4¡ã Comando**
+**4Â° Comando**
 ```
 pkg install nodejs-lts -y
 ```
-**5¡ã Comando**
+**5Â° Comando**
 ```
 pkg install nodejs -y
 ```
-**6¡ã Comando**
+**6Â° Comando**
 ```
 pkg install git -y
 ```
-**7¡ã Comando**
+**7Â° Comando**
 ```
 pkg install ffmpeg -y
 ```
-**8¡ã Comando**
+**8Â° Comando**
 ```
 pkg install wget -y
 ```
-**9¡ã Comando**
+**9Â° Comando**
 ```
 termux-setup-storage
 ```
-**10¡ã Comando**
+**10Â° Comando**
 ```
 cd /sdcard/
 ```
 
-**? Copyright by L¨²cifer 121**
+**Â© Copyright by LÃºcifer 121**
